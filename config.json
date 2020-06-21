@@ -1,20 +1,20 @@
 {
   "disablePathToLower": true,
   "params": {
-    "author": "NightFarmer",
-    "title": "NightFarmer'blog",
-    "subtitle": "理论指导实践，实践深化理论",
+    "author": "aliveyang",
+    "title": "aliveyang'blog",
+    "subtitle": "寻寻觅觅",
     "root_url": "/",
-    "avatar": "img/avatar.png",
+    "avatar": "img/yjtp.png",
     "tagcloud": true,
-    "aboutme": "我就是我，是不一样的烟火",
+    "aboutme": "是我杀了我",
     "friends": {
       "友链1": "http://www.baidu.com",
-      "友链2": "http://www.baidu.com"
+      "友链2": "http://www.google.com"
     },
     "subnav": {
-      "Email": "mailto:nightfarmer@163.com",
-      "GitHub": "https://github.com/NightFarmer"
+      "Email": "daybreakfangyang@gmail.com",
+      "GitHub": "https://github.com/aliveyang"
     },
     "menu": [
       {
